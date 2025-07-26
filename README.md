@@ -16,7 +16,7 @@ Here's an incomplete list of projects I have completed (or mangled) thus far:
       <li>A 10+ year old HP Stream 7, with an Intel Bay Trail CPU (64bit CPU/32bit bootloader).</li>
     </ul>
   <li>Fixed a dumpster 70in "smart TV" timing control board with scotch tape.</li>
-  <li>Attempted to remove a BIOS lock on a P52 Thinkpad Laptop an Ebay seller failed <em>conveniently</em>to disclose <br /><strong>Read:</strong> <em>I broke it</em></li>
+  <li>Attempted to remove a BIOS lock on a P52 Thinkpad Laptop an Ebay seller <em>conveniently</em> failed to disclose <br /><strong>Read:</strong> <em>I broke it</em></li>
   <li>(Successfully) Repaired my current P52 Thinkpad with a fan swap.</li>
 </ul>
 
